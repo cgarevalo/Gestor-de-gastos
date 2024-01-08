@@ -1,0 +1,6 @@
+A:\Archivos\Cristian\Repositorios de github\Gestor de gastos\Datos\bin\Debug\Datos.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de gastos\Datos\bin\Debug\Datos.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de gastos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+A:\Archivos\Cristian\Repositorios de github\Gestor de gastos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+A:\Archivos\Cristian\Repositorios de github\Gestor de gastos\Datos\obj\Debug\Datos.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de gastos\Datos\obj\Debug\Datos.pdb
